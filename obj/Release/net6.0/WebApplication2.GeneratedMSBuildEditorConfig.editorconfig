@@ -5,80 +5,83 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication2
 build_property.RootNamespace = WebApplication2
-build_property.ProjectDir = C:\Users\AYALA\source\repos\haimayala\dotNet5783_2453_2271\trytoreadme\
+build_property.ProjectDir = C:\Users\user1\Source\Repos\TamarGefner\trytoreadme\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\AYALA\source\repos\haimayala\dotNet5783_2453_2271\trytoreadme
+build_property.MSBuildProjectDirectory = C:\Users\user1\Source\Repos\TamarGefner\trytoreadme
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/Home/Index.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/Home/Privacy.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/Movies/Create.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/Movies/Delete.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/Movies/Details.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/Movies/Edit.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/Movies/Index.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/Shared/Error.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/students/Create.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/students/Delete.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/students/Details.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/students/Edit.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/students/Index.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/_ViewImports.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/_ViewStart.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AYALA/source/repos/haimayala/dotNet5783_2453_2271/trytoreadme/Views/Shared/_Layout.cshtml]
+[C:/Users/user1/Source/Repos/TamarGefner/trytoreadme/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-amt9qciysm
